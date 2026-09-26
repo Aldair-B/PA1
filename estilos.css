@@ -18,6 +18,8 @@ body {
    padding: 20px;
    background-image: url(imagenes/fondo.jpg);
     width:45%;
+      min-width: 900px;
+    max-width: 900px;
     margin:25px auto;
     border: 2px solid rgb(168, 168, 168);
  }
